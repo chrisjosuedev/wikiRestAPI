@@ -3,8 +3,6 @@
 
 ## Requests
 
-```javascript
-
 # Get articles by id
 /articles/:id
 
