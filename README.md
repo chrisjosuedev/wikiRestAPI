@@ -1,25 +1,25 @@
 # wikiRestAPI
 🤖✍🏻 Simple RestAPI Blog Wiki Style.
 
-## Requests
+# Requests
 
-# Get articles by id
+## Get articles by id
 /articles/:id
 
-# Get all articles
+## Get all articles
 /articles/
 
-# Get articles by title
+## Get articles by title
 /articles/title/:title
 
-# Post articles
+## Post articles
 /articles/
 
-# Delete article by id
+## Delete article by id
 /articles/:id
 
-# Replace article
+## Replace (Put) article
 /article/:id
 
-# Update article
+## Update (Patch) article
 /article/:id
